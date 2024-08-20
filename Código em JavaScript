@@ -5,3 +5,5 @@ const Pessoa = {
     console.log('Meu nome eh ' + this.nome + 'e tenho ' + this.idade + 'anos');
   }
 };
+
+pessoa.apresentar();
